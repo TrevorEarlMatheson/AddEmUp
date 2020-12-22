@@ -28,7 +28,7 @@ namespace AddEmUp
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Sum of the numbers entered is {0}.",CheckInput(new List<int>(), 0));//Print sum to user.
+            Console.WriteLine("The sum of numbers entered is {0}.",CheckInput(new List<int>(), 0));//Print sum to user.
         }
     }
 }
