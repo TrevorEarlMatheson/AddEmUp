@@ -11,3 +11,15 @@ obj/Debug/netcoreapp3.1/AddEmUp.AssemblyInfo.cs
 obj/Debug/netcoreapp3.1/AddEmUp.AssemblyInfoInputs.cache
 obj/Debug/netcoreapp3.1/AddEmUp.assets.cache
 obj/Debug/netcoreapp3.1/AddEmUp.csprojAssemblyReference.cache
+bin/Debug/netcoreapp3.1/AddEmUp
+bin/Debug/netcoreapp3.1/AddEmUp.deps.json
+bin/Debug/netcoreapp3.1/AddEmUp.dll
+bin/Debug/netcoreapp3.1/AddEmUp.pdb
+bin/Debug/netcoreapp3.1/AddEmUp.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/AddEmUp.runtimeconfig.json
+obj/Debug/netcoreapp3.1/AddEmUp
+obj/Debug/netcoreapp3.1/AddEmUp.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/AddEmUp.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/AddEmUp.dll
+obj/Debug/netcoreapp3.1/AddEmUp.genruntimeconfig.cache
+obj/Debug/netcoreapp3.1/AddEmUp.pdb
