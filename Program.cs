@@ -21,11 +21,16 @@ namespace AddEmUp
             {
                 if(input.ToLower() == "ok")
                 {
-
+                    int sum = 0;
+                    foreach(var number in numbers)
+                    {
+                        sum += number;
+                    }
+                    return(sum);
                 }
                 else
                 {
-
+                    
                 }
             }
         }
