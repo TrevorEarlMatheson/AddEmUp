@@ -5,16 +5,11 @@ namespace AddEmUp
 {
     class Program
     {
-        static string GetInput()
-        {
-            return(Console.ReadLine());
-        }
-
         static int CheckInput(List<int> numbers)
         {
             int sum = 0;
             Console.WriteLine("Please enter a number or \"ok\" to exit the program");
-            string input =  GetInput();
+            string input =  Console.ReadLine();
             try
             {
                 numbers.Add(int.Parse(input));//Check if the input is a number and recursively call function.
@@ -40,8 +35,7 @@ namespace AddEmUp
 
         static void Main(string[] args)
         {
-            var numbers = new List<int>();
-            CheckInput(numbers);
+            Console.WriteLine(CheckInput(new List<int>()));//Print sum to user.
         }
     }
 }
