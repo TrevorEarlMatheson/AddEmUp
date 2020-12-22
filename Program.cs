@@ -5,9 +5,8 @@ namespace AddEmUp
 {
     class Program
     {
-        static int CheckInput(List<int> numbers)
+        static int CheckInput(List<int> numbers, int sum = 0)
         {
-            int sum = 0;
             Console.WriteLine("Please enter a number or \"ok\" to exit the program");
             string input =  Console.ReadLine();
             try
